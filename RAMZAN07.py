@@ -50,7 +50,9 @@ def jalan(z):
 
 
                                    
+#### LOGO ####
 
+logo = """
 
 
 
